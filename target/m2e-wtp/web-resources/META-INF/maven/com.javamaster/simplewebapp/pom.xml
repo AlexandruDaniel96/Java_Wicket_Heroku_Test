@@ -62,7 +62,7 @@
 		<resources>
 			<resource>
 				<filtering>false</filtering>
-				<directory>src/main/resources</directory>
+				<directory>src/main/webapp/resources</directory>
 			</resource>
 			<resource>
 				<filtering>false</filtering>
